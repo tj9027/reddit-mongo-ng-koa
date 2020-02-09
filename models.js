@@ -1,0 +1,1 @@
+const redditModel = require('./mongo');
